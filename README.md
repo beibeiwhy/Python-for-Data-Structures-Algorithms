@@ -4,7 +4,7 @@ Algorithm
 
 1. [Big-O Complexity Chart](http://bigocheatsheet.com/)
 
-1. Array Sequences
+1. [Array Sequences](https://github.com/time2036/Python-for-Data-Structures-Algorithms/tree/master/Array%20Sequences)
 
 1. Stacks Queues and Deques
 
